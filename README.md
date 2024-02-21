@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chandni Kalwani</h1>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <h3 align="center">A passionate frontend and Machine Learning developer from India</h3>
 
 - 📫 How to reach me **chandni2131100@akgec.ac.in**
