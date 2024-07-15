@@ -1,5 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm Chandni Kalwani</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate MERN Full Stack Web developer from India</h3>
 
 - 📫 How to reach me **mtgbischinu@gmail.com**
 
