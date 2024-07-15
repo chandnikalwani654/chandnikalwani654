@@ -19,7 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubchandni&" alt="githubchandni" /></p>
 -->
 <h1 align="center">Hi 👋, I'm Chandni Kalwani</h1>
-<h3 align="center">A passionate Full Stack Web developer from India.</h3>
+<h3 align="center">A passionate MERN Full Stack Web developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtgbischinu&label=Profile%20views&color=0e75b6&style=flat" alt="mtgbischinu" /> </p>
 
