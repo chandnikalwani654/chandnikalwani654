@@ -35,7 +35,6 @@
 
 - 📫 How to reach me **mtgbischinu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-esubVmzEkV9Dr8ubL55ymZ7o-lBxmhm/view?usp=drive_link](https://drive.google.com/file/d/1-esubVmzEkV9Dr8ubL55ymZ7o-lBxmhm/view?usp=drive_link)
 
 - ⚡ Fun fact **"I've been known to accidentally start coding in my sleep, waking up to find lines of code on my laptop that I have no memory of writing. My dreams must be debugging sessions!"**
 
