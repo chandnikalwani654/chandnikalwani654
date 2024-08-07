@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on <!--**a Job Board where employers can post job listings and job seekers can search and apply for jobs.**-->
 
-- 🌱 I’m currently learning **Backend Framework(Express.js)**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://githubchandni.github.io/portfolio/](https://githubchandni.github.io/portfolio/)
 
