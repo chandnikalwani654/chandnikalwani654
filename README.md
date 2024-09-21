@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [https://githubchandni.github.io/portfolio/](https://githubchandni.github.io/portfolio/)
 
-- 📫 How to reach me **mtgbischinu@gmail.com**
+- 📫 How to reach me **cheenuk24@gmail.com**
 
 
 - ⚡ Fun fact **"I've been known to accidentally start coding in my sleep, waking up to find lines of code on my laptop that I have no memory of writing. My dreams must be debugging sessions!"**
